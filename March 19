@@ -1,0 +1,3 @@
+a="Congratulations"
+print(a.upper())
+print(a[0:15])
