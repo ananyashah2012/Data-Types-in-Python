@@ -1,0 +1,8 @@
+Ananya="April 20"
+print("Ananya's Birthday is", Ananya)
+Divija="October 16"
+print("Divija's Birthday is", Divija)
+Mom="October 18"
+print("Mom's Birthday is", Mom)
+Dad="October 19"
+print("Dad's Birthday is", Dad)
